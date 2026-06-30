@@ -36,8 +36,6 @@ bin/
 Thumbs.db
 desktop.ini
 
-# Secrets configuration
-auth-service/src/main/resources/application.yml
 
 # React/Node dependencies
 /node_modules
